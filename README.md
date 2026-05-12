@@ -187,9 +187,3 @@ jupyter notebook
 **Hemin Shah**  
 Master of Science in Computer Science (Data Science)  
 University of Regina
-
----
-
-# 📜 License
-
-This project is licensed under the MIT License.
