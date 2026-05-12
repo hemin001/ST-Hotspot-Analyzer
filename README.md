@@ -81,12 +81,6 @@ Cluster centroids from consecutive quarters were compared.
 
 ---
 
-# 🧭 Workflow
-
-![Workflow](images/workflow.png)
-
----
-
 # 🛠️ Technologies Used
 
 - Python
@@ -107,24 +101,6 @@ An interactive Power BI dashboard was developed to visualize:
 - Noise percentage
 - Quarterly hotspot analysis
 - Spatial hotspot evolution maps
-
----
-
-## 🖥️ Dashboard Overview
-
-![Dashboard Overview](images/dashboard_overview.png)
-
----
-
-## 📅 Quarterly Analysis
-
-![Quarterly Analysis](images/quarterly_analysis.png)
-
----
-
-## 🗺️ Spatial Hotspot Evolution Map
-
-![Spatial Map](images/spatial_map.png)
 
 ---
 
